@@ -3,7 +3,7 @@
 
 int ledPin = 13;
 int lm35Pin = 0;
-String apiKey = "EUILCPS5SLZNV8XR"; // Ubah dengan API Key ente bro!
+String apiKey = "KXWI4M1PQ62E4H3Y"; // Ubah dengan API Key ente bro!
 SoftwareSerial ser(10, 11); // RX, TX
 
 void setup() {               
